@@ -30,21 +30,26 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  </a>
-      <a href="https://github.com/JohnFPy/LosInadaptados" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@trimsucne" /></a>
-      <a href="https://github.com/trimsucne/simulador-por-eventos" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JohnFPy/LosInadaptados" target="_blank">
+        <img src="https://s1.significados.com/foto/emocion-og.jpg" alt="Los Inadaptados" width="300px"/><br>
+        <img src="https://img.shields.io/badge/Ver%20Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Registro de Emociones"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trimsucne/simulador-por-eventos" target="_blank">
+        <img src="https://www.tworeality.com/wp-content/uploads/2016/01/tworeality-oculus-rift.jpg" alt="Simulador por Eventos" width="300px"/><br>
+        <img src="https://img.shields.io/badge/Ver%20Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Simulación por Eventos"/>
+      </a>
+    </td>
+  </tr>
 </table>
   </div>
 <br>
-<br><br>
-<br>
-<br><br><br>
 <br><br>
 
 
