@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/trimsucne.png" width="150" alt="Perfil de Sergio Correa" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hola 👋  soy Sergio Correa ✨ </h1> 
 
 <p align="left">
