@@ -13,7 +13,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de Ingeniería de Sistemas y Computación
+🎓 Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia
 
 💻 En continuo aprendizaje sobre el desarrollo y su transversalidad multidisciplinaria
 
